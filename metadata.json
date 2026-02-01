@@ -1,0 +1,7 @@
+{
+  "name": "TravelScriptAI UI",
+  "description": "Premium content generation for travel brands. Minimalist, elegant, and AI-powered storytelling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
